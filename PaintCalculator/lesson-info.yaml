@@ -1,0 +1,8 @@
+type: framework
+content:
+  - Task1 - ceilingArea method
+  - Task2 - wallArea method
+  - Task3 - roomArea method
+  - Task4 - gallonsPaint method
+is_template_based: false
+current_task: 0
